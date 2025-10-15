@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.941751, 33.426634] 
+      },
+      "properties": {
+        "title": "Property 1",
+        "description": "Townhouse for sale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.945149, 33.417519]
+      },
+      "properties": {
+        "title": "Property 2",
+        "description": "4 bedroom 3 bath for sale"
+      }
+    }
+  ]
+}

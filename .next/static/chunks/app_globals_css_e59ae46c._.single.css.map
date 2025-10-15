@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/globals.css"],"sourcesContent":["@import \"mapbox-gl/dist/mapbox-gl.css\";\n@import \"~@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css\";\n\n"],"names":[],"mappings":""}}]
+}
